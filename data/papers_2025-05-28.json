@@ -1,0 +1,29 @@
+[
+  {
+    "title": "FieldWorkArena: Agentic AI Benchmark for Real Field Work Tasks",
+    "authors": [
+      "Atsunori Moteki",
+      "Shoichi Masui",
+      "Fan Yang",
+      "Yueqi Song",
+      "Yonatan Bisk",
+      "Graham Neubig",
+      "Ikuo Kusajima",
+      "Yasuto Watanabe",
+      "Hiroyuki Ishida",
+      "Jun Takahashi",
+      "Shan Jiang"
+    ],
+    "abstract": "This paper proposes FieldWorkArena, a benchmark for agentic AI targeting\nreal-world field work. With the recent increase in demand for agentic AI, they\nare required to monitor and report safety and health incidents, as well as\nmanufacturing-related incidents, that may occur in real-world work\nenvironments. Existing agentic AI benchmarks have been limited to evaluating\nweb tasks and are insufficient for evaluating agents in real-world work\nenvironments, where complexity increases significantly. In this paper, we\ndefine a new action space that agentic AI should possess for real world work\nenvironment benchmarks and improve the evaluation function from previous\nmethods to assess the performance of agentic AI in diverse real-world tasks.\nThe dataset consists of videos captured on-site and documents actually used in\nfactories and warehouses, and tasks were created based on interviews with\non-site workers and managers. Evaluation results confirmed that performance\nevaluation considering the characteristics of Multimodal LLM (MLLM) such as\nGPT-4o is feasible. Additionally, the effectiveness and limitations of the\nproposed new evaluation method were identified. The complete dataset\n(HuggingFace) and evaluation program (GitHub) can be downloaded from the\nfollowing website:\nhttps://en-documents.research.global.fujitsu.com/fieldworkarena/.",
+    "url": "http://arxiv.org/abs/2505.19662v1",
+    "pdf_url": "http://arxiv.org/pdf/2505.19662v1",
+    "published_date": "2025-05-26T08:21:46",
+    "source": "arxiv",
+    "venue": "arXiv",
+    "citation_count": null,
+    "categories": [
+      "cs.AI",
+      "cs.CV"
+    ]
+  }
+]
